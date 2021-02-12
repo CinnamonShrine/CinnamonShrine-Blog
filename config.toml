@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://cinnamonshrine-blog.netlify.app"
 # relativeURLs = true
 enableRobotsTXT = true
 # [en, zh-cn, fr, ...] determines default content language
@@ -16,7 +16,7 @@ theme = "LoveIt"
   # site description
   description = "A Personal Blog by Moepoi"
   # site keywords
-  keywords = ["Moepoi", "Moe", "Anime"]
+  keywords = ["Cinnamonshrine", "Cinnamon", "Anime"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
@@ -27,7 +27,7 @@ theme = "LoveIt"
   #  date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["/img/profile/profile.webp"]
+  images = ["/img/profile/profile.jpg"]
 
 #  App icon config
   [params.app]
